@@ -1,7 +1,7 @@
 # UX/UI Design Portfolio
 This is a centralised portfolio containing all of my UX/UI design work from the various projects I've done.
 
-## *Doit* - Online To-do List (July 2024 - Present)
+## *Doit* - Online To-do List (July 2024 - December 2024)
 An online to-do list, created using HTML, JavaScript and CSS and bundled using the webpack bundler. This is an independent project entirely conceptualised and implemented by me. [You can find the full project in this repository.](https://github.com/liuworkgit/doit-webapp)
 
 ## *NetWorker* - Online Networking Service (July 2024)
